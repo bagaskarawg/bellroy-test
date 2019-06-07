@@ -1,0 +1,35 @@
+EXTRAVERSION.........80
+Friendliness.........82
+Gregariousness.......64
+Assertiveness........44
+Activity Level.......70
+Excitement-Seeking...66
+Cheerfulness.........96
+AGREEABLENESS...94
+Trust...........96
+Morality........89
+Altruism........69
+Cooperation.....54
+Modesty.........82
+Sympathy........90
+CONSCIENTIOUSNESS......48
+Self-Efficacy..........52
+Orderliness............41
+Dutifulness............66
+Achievement-Striving...26
+Self-Discipline........57
+Cautiousness...........56
+NEUROTICISM..........13
+Anxiety..............27
+Anger................4
+Depression...........9
+Self-Consciousness...22
+Immoderation.........38
+Vulnerability........48
+OPENNESS TO EXPERIENCE...11
+Imagination..............0
+Artistic Interests.......31
+Emotionality.............22
+Adventurousness..........48
+Intellect................27
+Liberalism...............34
